@@ -24,7 +24,6 @@
 #include <regex.h>
 
 #include "boost/format.hpp"
-#include "string_functions.hpp"
 
 
 int msiget_precise_time(
